@@ -5,26 +5,26 @@ Tools and frameworks specifically designed for building RAG applications.
 ## End-to-End Frameworks
 
 - **deepset Haystack**
-  - Description: Complete framework for building RAG and QA systems
-  - Type: Open Source
-  - Quick start: `pip install farm-haystack`
-  - Tags: #rag #qa #pipeline
-  - Validation: Production deployments in enterprise
+  - **Type:** Open Source
+  - **Credibility:** Developed by a well‑known NLP startup; its end‑to‑end pipelines have been validated in both research and production.
+  - **Unique:** Seamlessly integrates document processing, vector search, and retrieval strategies to build robust QA systems.
+  - **Validation:** Cited in technical articles and case studies by organizations deploying enterprise-grade QA solutions.
   - Last verified: 2024-03
 
 ## Document Processing
 
 - **LlamaIndex**
-  - Description: Data framework for LLM applications
-  - Type: Open Source
-  - Quick start: `pip install llama-index`
-  - Tags: #indexing #structured-data #rag
+  - **Type:** Open Source
+  - **Credibility:** [Missing]
+  - **Unique:** [Missing]
+  - **Validation:** [Missing]
   - Last verified: 2024-03
 
 ## Retrieval Tools
 
 - **txtai**
-  - Description: AI-powered search engine
-  - Type: Open Source
-  - Tags: #search #embeddings #indexing
+  - **Type:** Open Source
+  - **Credibility:** [Missing]
+  - **Unique:** [Missing]
+  - **Validation:** [Missing]
   - Last verified: 2024-03 
