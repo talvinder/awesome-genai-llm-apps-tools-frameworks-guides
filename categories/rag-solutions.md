@@ -9,7 +9,7 @@ Tools and frameworks specifically designed for building RAG applications.
   - **Credibility:** Developed by a well‑known NLP startup; its end‑to‑end pipelines have been validated in both research and production.
   - **Unique:** Seamlessly integrates document processing, vector search, and retrieval strategies to build robust QA systems.
   - **Validation:** Cited in technical articles and case studies by organizations deploying enterprise-grade QA solutions.
-  - Last verified: 2024-03
+  - Last verified: 2025-02
 
 ## Document Processing
 
@@ -18,7 +18,7 @@ Tools and frameworks specifically designed for building RAG applications.
   - **Credibility:** [Missing]
   - **Unique:** [Missing]
   - **Validation:** [Missing]
-  - Last verified: 2024-03
+  - Last verified: 2025-02
 
 ## Retrieval Tools
 
@@ -27,4 +27,4 @@ Tools and frameworks specifically designed for building RAG applications.
   - **Credibility:** [Missing]
   - **Unique:** [Missing]
   - **Validation:** [Missing]
-  - Last verified: 2024-03 
+  - Last verified: 2025-02 
